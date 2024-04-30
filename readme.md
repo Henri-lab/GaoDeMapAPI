@@ -82,7 +82,7 @@ radius: 圆形区域半径（单位：米）。<br>
 name: 道路名称。<br>
 adcode: 行政区划代码。<br>
 **地理围栏 (geoFence), 猎鹰服务 (trackService), GeoHUB服务 (geoHUB)**
-参数根据具体需求设定。<br>
+暂未开发。<br>
 **错误处理**
 如果传入的 type 不支持，函数将抛出 "Unsupported request type" 错误。
 API 调用失败将返回相应的错误信息。<br>
