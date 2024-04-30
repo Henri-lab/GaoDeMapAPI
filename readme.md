@@ -90,7 +90,6 @@ API 调用失败将返回相应的错误信息。<br>
 使用 request 函数获取*北京天安门*的地理编码：
 
 ```javascript
-Copy code
 request('geo', { address: '北京天安门' }).then(response => {
     console.log(response);
 }).catch(error => {
