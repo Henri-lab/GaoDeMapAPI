@@ -8,7 +8,6 @@ request 函数是一个中央调度器，用于处理对高德地图提供的各
 
 **函数签名**
 ```javascript
-Copy code
 async function request(type, params)
 ```
 **参数**
