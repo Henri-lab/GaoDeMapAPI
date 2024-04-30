@@ -2,6 +2,9 @@ request使用说明：
 ===
 API 请求函数 request
 request 函数是一个中央调度器，用于处理对高德地图提供的各种 API 的请求。它根据传入的请求类型和参数，调用对应的服务函数。
+您的高德地图密钥应该在axiosConfig文件下配置
+且确保您已经在您的项目中安装了axios
+
 
 **函数签名**
 ```javascript

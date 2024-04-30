@@ -1,4 +1,3 @@
-// 在 axiosConfig.js 文件中
 import axios from 'axios';
 
 const key ="你的高德API密钥"

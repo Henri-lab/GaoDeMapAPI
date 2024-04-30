@@ -82,15 +82,18 @@ export namespace ApiService {
 
   // 地理围栏API
   export function geoFence() {
+    console.log('开发中');
     return null;
   }
 
   // 猎鹰服务API
   export function trackService() {
+    console.log('开发中');
     return null;
   }
   // GeoHUB服务API
   export function geoHUBService() {
+    console.log('开发中');
     return null;
   }
 }

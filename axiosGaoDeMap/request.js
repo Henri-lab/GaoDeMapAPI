@@ -1,6 +1,5 @@
 import { ApiService } from "./apiService";
 
-// 然后，定义一个请求调度函数
 export default async function request(type, params) {
     switch (type) {
         case 'geo':
