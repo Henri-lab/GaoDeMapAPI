@@ -13,8 +13,8 @@ async function request(type, params)
 type (String): 请求的类型，决定将调用哪个 API 功能。
 params (Object): 传递给 API 函数的参数，不同的 API 可能需要不同的参数。
 返回值
-返回一个 Promise，该 Promise 解析为 API 调用的结果。
-支持的请求类型及参数
+返回一个 Promise，该 Promise 解析为 API 调用的结果。<br>
+支持的请求类型及参数<br>
 下面列出了 request 函数支持的所有请求类型及其所需的参数：<br>
 总览：
 静态地图API地理编码API
